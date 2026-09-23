@@ -191,7 +191,7 @@ class _ProjectsSectionState extends State<ProjectsSection> {
                         isSmall: true,
                         onPressed: () {
                           Navigator.of(context).pop();
-                          _launchUrl(project.githubUrl ?? 'https://github.com/dharmikrakholiya');
+                          _launchUrl(project.githubUrl ?? 'https://github.com/dharmik20015');
                         },
                       ),
                       const SizedBox(width: 12),
@@ -443,7 +443,7 @@ class _ProjectsSectionState extends State<ProjectsSection> {
                           IconButton(
                             icon: const Icon(Icons.open_in_new_rounded, size: 17),
                             color: isDark ? AppColors.textDarkSecondary : AppColors.textLightSecondary,
-                            onPressed: () => _launchUrl(project.githubUrl ?? 'https://github.com/dharmikrakholiya'),
+                            onPressed: () => _launchUrl(project.githubUrl ?? 'https://github.com/dharmik20015'),
                             tooltip: 'Source & Details',
                           ),
                         ],

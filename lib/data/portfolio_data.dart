@@ -242,8 +242,8 @@ class PortfolioData {
       impact: 'Achieved ultra-low latency modular processing with 99.9% uptime benchmark.',
       tags: ['Flutter', 'Dart', 'Python', 'Django API', 'Modular Arch'],
       icon: Icons.school,
-      githubUrl: 'https://github.com/dharmikrakholiya',
-      liveUrl: 'https://github.com/dharmikrakholiya',
+      githubUrl: 'https://github.com/dharmik20015',
+      liveUrl: 'https://github.com/dharmik20015',
     ),
     ProjectItem(
       title: 'Ticket Management Enterprise CRM',
@@ -253,8 +253,8 @@ class PortfolioData {
       impact: 'Reduced customer support resolution cycle by 40% across support centers.',
       tags: ['Flutter', 'REST APIs', 'WebSockets', 'Riverpod', 'Supabase'],
       icon: Icons.confirmation_number,
-      githubUrl: 'https://github.com/dharmikrakholiya',
-      liveUrl: 'https://github.com/dharmikrakholiya',
+      githubUrl: 'https://github.com/dharmik20015',
+      liveUrl: 'https://github.com/dharmik20015',
     ),
     ProjectItem(
       title: 'Device & Hardware Asset Management CRM',
@@ -264,8 +264,8 @@ class PortfolioData {
       impact: 'Actively monitors over 10,000+ hardware devices with full audit trails.',
       tags: ['Flutter', 'PostgreSQL', 'QR Scanner', 'Clean Arch', 'Supabase'],
       icon: Icons.devices,
-      githubUrl: 'https://github.com/dharmikrakholiya',
-      liveUrl: 'https://github.com/dharmikrakholiya',
+      githubUrl: 'https://github.com/dharmik20015',
+      liveUrl: 'https://github.com/dharmik20015',
     ),
     ProjectItem(
       title: 'All-in-One Automobile Dealership CRM',
@@ -275,8 +275,8 @@ class PortfolioData {
       impact: 'Drove 35% higher service repeat visits and automated reminder follow-ups.',
       tags: ['Flutter', 'Firebase', 'Push Notifications', 'Payment Gateway'],
       icon: Icons.directions_car,
-      githubUrl: 'https://github.com/dharmikrakholiya',
-      liveUrl: 'https://github.com/dharmikrakholiya',
+      githubUrl: 'https://github.com/dharmik20015',
+      liveUrl: 'https://github.com/dharmik20015',
     ),
     ProjectItem(
       title: 'Infra Eye Mobile Infrastructure Telemetry',
@@ -286,8 +286,8 @@ class PortfolioData {
       impact: 'Instant sub-second incident alerting for mission-critical server networks.',
       tags: ['Flutter', 'Real-time Charts', 'WebSockets', 'Alert System', 'BLoC'],
       icon: Icons.remove_red_eye,
-      githubUrl: 'https://github.com/dharmikrakholiya',
-      liveUrl: 'https://github.com/dharmikrakholiya',
+      githubUrl: 'https://github.com/dharmik20015',
+      liveUrl: 'https://github.com/dharmik20015',
     ),
   ];
 

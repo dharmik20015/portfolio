@@ -245,7 +245,7 @@ class _HeroSectionState extends State<HeroSection> {
         Row(
           mainAxisSize: MainAxisSize.min,
           children: [
-            _buildSocialIcon(FontAwesomeIcons.github, 'https://github.com/dharmikrakholiya', isDark),
+            _buildSocialIcon(FontAwesomeIcons.github, 'https://github.com/dharmik20015', isDark),
             const SizedBox(width: 14),
             _buildSocialIcon(FontAwesomeIcons.envelope, 'mailto:${PortfolioData.email}', isDark),
             const SizedBox(width: 14),
